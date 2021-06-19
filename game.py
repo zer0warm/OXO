@@ -9,10 +9,10 @@ win_combinations = [(0, 1, 2), (3, 4, 5), (6, 7, 8),
                     (0, 3, 6), (1, 4, 7), (2, 5, 8),
                     (0, 4, 8), (2, 4, 6)]
 
-def initialize():
+def initialize(size, caption='Tic-Tac-Toe'):
     pygame.init()
-    screen = pygame.display.set_mode((600, 600))
-    pygame.display.set_caption('Tic-Tac-Toe')
+    screen = pygame.display.set_mode(size)
+    pygame.display.set_caption(caption)
     screen.fill((0, 0, 0))
     return screen
 
