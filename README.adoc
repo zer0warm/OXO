@@ -33,4 +33,5 @@ If the click is on either four crossing points, an error is thrown.
 
 == Demo
 
-video::oxo_demo_gameplay.m4v[Demo video (M4V)]
+.Demo Gameplay (M4V)
+video::oxo_demo_gameplay.m4v[]
