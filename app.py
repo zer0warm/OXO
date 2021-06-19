@@ -8,3 +8,4 @@ if __name__ == '__main__':
     drawing.draw_board()
     game.screen = screen
     game.mainloop()
+    game.quit()

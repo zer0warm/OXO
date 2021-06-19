@@ -26,7 +26,6 @@ def mainloop():
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 done = True
-                pygame.quit()
             elif event.type == pygame.MOUSEBUTTONDOWN:
                 click_handler()
 
