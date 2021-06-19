@@ -33,5 +33,4 @@ If the click is on either four crossing points, an error is thrown.
 
 == Demo
 
-.Demo Gameplay (M4V)
-video::_TykLcYQqQQ[youtube]
+The demo is hosted on link:https://youtu.be/_TykLcYQqQQ[YouTube].
